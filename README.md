@@ -9,4 +9,4 @@ Three models in total were used through out the project: SVM, Gaussian Bayes, an
 Python 3.X (Done on Google Colab)
 Dependencies: pandas, numpy, sklearn, pytorch
 
-Set the [dataset_path] correctly if not on google colab
+Set the [dataset_path] correctly if the project is not being run on google colab.
